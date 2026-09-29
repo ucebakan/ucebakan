@@ -2,7 +2,7 @@
 
 Computer Engineering graduate from Çukurova University and a Junior Software Developer based in Adana, Türkiye.
 
-I have hands-on experience with Python-based desktop software development and corporate IT environments through my internships at APEGRA Software ARGE Teknoloji and BOTAŞ.
+I’m interested in software development, desktop applications, game development, and building practical projects while continuously improving my technical skills.
 
 ## Technical Skills
 
@@ -14,16 +14,11 @@ I have hands-on experience with Python-based desktop software development and co
 - Desktop Application Development
 - Basic Networking & IT Support
 
-## Experience Highlights
-
-- Developed and reviewed Python-based desktop software for accounting-related backup workflows at APEGRA Software.
-- Worked with backup/restore operations, VSS, scheduling, SMTP notifications, licensing, logging, and Windows packaging.
-- Gained corporate IT experience at BOTAŞ, including hardware, user support, and basic network operations.
-
 ## Currently
 
 - Improving my software development skills
 - Building and publishing personal projects
+- Exploring software and game development projects
 - Open to Junior Software Developer opportunities
 
 ## Contact
